@@ -4,6 +4,7 @@ export default defineConfig({
   antd: {},
   access: {},
   model: {},
+  dva: {},
   initialState: {},
   request: {},
   layout: {
